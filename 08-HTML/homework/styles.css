@@ -1,0 +1,23 @@
+h1 {color : color(srgb 0.601 0.601 0.765)}
+thirdDiv {
+	height: 600px;
+	width: 500px;
+}
+#spanID {
+	font-size: 18px;
+	margin: 50px;
+	border: 2px solid green;
+	text-align: center;
+}
+html {
+	background-image: url("https://ak.picdn.net/shutterstock/videos/2218705/thumb/1.jpg");
+}
+div {
+	margin: 1rem;
+	text-align: center;
+	background-color: color(srgb 0 0 1 / 0.354);
+
+}
+ul {
+	text-align: center;
+}
