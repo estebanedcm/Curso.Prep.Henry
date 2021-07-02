@@ -1,0 +1,1 @@
+callback es una posibilidad de usar funciones como parametro de otras funciones
